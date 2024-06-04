@@ -1,6 +1,8 @@
-I'm a second-year student in the <a href=https://capp.cs.uchicago.edu>MS in Computational Analysis and Public Policy</a> (MSCAPP) program at the University of Chicago (expected graduation: June 2024). I am transitioning into data-focused software engineering roles after several years of policy experience in Washington, D.C., including as a paralegal, in issue-advocacy public relations, in digital campaign fundraising, and as an on-staff researcher, both for an elected official and for a small policy think tank. I'm also a <a href="https://j-archive.com/showplayer.php?player_id=10171&highlight=matt+jackson">game show champion</a>.
+I'm a recent graduate of the <a href=https://capp.cs.uchicago.edu>MS in Computational Analysis and Public Policy</a> (MSCAPP) program at the University of Chicago. I am transitioning into data-focused software engineering roles after several years of policy experience in Washington, D.C., including as a paralegal, in issue-advocacy public relations, in digital campaign fundraising, and as an on-staff researcher, both for an elected official and for a small policy think tank. I'm also a <a href="https://j-archive.com/showplayer.php?player_id=10171&highlight=matt+jackson">game show champion</a>.
 
-I recently completed an internship with the Data department at the <a href=https://www.cookcountyassessor.com>Cook County Assessor's Office</a>. I am seeking a full-time career opportunity with a technical focus, ideally in the public, civic, and/or social good sectors.
+I recently completed an internship with the Data department at the <a href=https://www.cookcountyassessor.com>Cook County Assessor's Office</a>. 
+
+I am seeking a full-time career opportunity with a technical focus, ideally in the public, civic, and/or social good sectors.
 
 Projects I've worked on include:
 <ul>
