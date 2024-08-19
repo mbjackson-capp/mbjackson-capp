@@ -1,4 +1,4 @@
-I'm a recent graduate of the masters program in <a href=https://capp.cs.uchicago.edu>MS in Computational Analysis and Public Policy</a> (CAPP) at the University of Chicago. I'm also a <a href="https://j-archive.com/showplayer.php?player_id=10171&highlight=matt+jackson">game show champion</a>.
+I'm a recent graduate of the masters program in <a href=https://capp.cs.uchicago.edu>MS in Computational Analysis and Public Policy</a> (CAPP) at the University of Chicago. 
 
 I am a Data Engineer within <a href=https://www.phila.gov/departments/office-of-innovation-and-technology/citygeo/>CityGeo</a>, a division of the City of Philadelphia's Office of Innovation and Technology. Before that, I held a graduate student internship with the Data department at the <a href=https://www.cookcountyassessor.com>Cook County Assessor's Office</a>. 
 
@@ -10,5 +10,4 @@ Projects I've worked on include:
   <li><a href=https://github.com/necabotheking/ml-affordable-care-act>Understanding Public Perceptions of the Affordable Care Act ("Obamacare")</a>: quarter-long machine learning project with a focus on natural language processing (NLP), sentiment analysis, hyperparameter tuning, model design, evaluation metrics, and generalization.</li>
 </ul>
 
-
-
+I'm also a <a href="https://j-archive.com/showplayer.php?player_id=10171&highlight=matt+jackson">game show champion</a>.
