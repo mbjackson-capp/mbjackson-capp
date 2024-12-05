@@ -10,4 +10,6 @@ Projects I've worked on include:
   <li><a href=https://github.com/uchicago-capp122-winter23/30122-project-redistricting-redux>Redistricting Redux</a>: quarter-long project with a focus on software design, data ingestion via API, and data visualization. Written in Python (including geopandas and scikit-learn).</li>
 </ul>
 
+I enjoy coding challenges; I'm currently working through <a href=https://github.com/mbjackson-capp/adventofcode>Advent of Code</a> and <a href=https://github.com/mbjackson-capp/everybodycodes>Everybody Codes</a>.
+
 I'm also a <a href="https://j-archive.com/showplayer.php?player_id=10171&highlight=matt+jackson">game show champion</a>.
