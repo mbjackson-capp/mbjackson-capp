@@ -2,11 +2,6 @@ I am a Data Scientist with <a href=https://www.drivendata.org>DrivenData</a>. Pr
 
 I graduated from the masters program in <a href=https://capp.cs.uchicago.edu>MS in Computational Analysis and Public Policy</a> (CAPP) at the University of Chicago. 
 
-Projects I've worked on include:
-<ul>
-  <li><a href=https://github.com/mbjackson-capp/questions_to_cards>questions_to_cards</a>: Personal project; pandas-based pipeline for taking an archived database of quizbowl questions and converting it into category-tagged, single-clue digital flashcards.</li>
-</ul>
-
 I enjoy doing coding challenges without LLM assistance; I'm currently working through <a href=https://github.com/mbjackson-capp/adventofcode>Advent of Code</a> and <a href=https://github.com/mbjackson-capp/everybodycodes>Everybody Codes</a>.
 
 I'm also a <a href="https://j-archive.com/showplayer.php?player_id=10171&highlight=matt+jackson">game show champion</a>.
